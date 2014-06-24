@@ -1,16 +1,16 @@
 {
 	"name": "angular-filesystem",
-	"version": "0.1.0beta",
-	"author": "maciel310",
-	"description": "AngularJS Service implementation of the Web FileSystem API",
+	"version": "0.0.1",
+	"author": "Eduardo Martines",
+	"description": "AngularJS service implementation of the Web FileSystem API",
 	"contributors": [
 		{
-			"name": " maciel310"
+			"name": " Eduardo Martines"
 		}
 	],
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/maciel310/angular-filesystem.git"
+		"url": "https://github.com/mobii-semparar/angular-filesystem.git"
 	},
 	"keywords": [
 		"AngularJS",
@@ -18,7 +18,6 @@
 		"Service"
 	],
 	"analyze": false,
-	"license": "MIT",
 	"engines": {
 		"node": ">=0.10.0"
 	}

@@ -1,4 +1,4 @@
 angular-filesystem
 ==================
 
-AngularJS Service implementation of the Web FileSystem API
+AngularJS service implementation of the Web FileSystem API
